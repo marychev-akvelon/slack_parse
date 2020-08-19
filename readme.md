@@ -14,6 +14,7 @@ You can see the whole folder tree. This mode doesn't make it to fix files. It on
 
 Example use:
 ```
-python main.py ../channels/demo_sjon2 --tree  
-python main.py ../channels/demo_sjon2 
+python3 --help
+python3 main.py ../channels/demo_sjon2 --tree  
+python3 main.py ../channels/demo_sjon2 
 ```
